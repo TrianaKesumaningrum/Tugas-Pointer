@@ -5,6 +5,7 @@ NPM : G1A021068
 Kelas : Informatika B
 
 
+
 Exercise table 1: 
 
 | a   | b   | c   | p1  | p2  | p3  |
