@@ -1,5 +1,7 @@
 Nama : Triana Kesumaningrum
+
 NPM : G1A021068
+
 Kelas : Informatika B
 
 
